@@ -1,0 +1,27 @@
+Function: no_params
+Function: no_params
+Function: no_params
+Function: no_params
+Positional Parameters: none
+Keyword Parmaters: none
+Return: None
+Function: boolean
+Positional Parameters: ['isGood']
+Keyword Parmaters: none
+Return: True
+Function: kwordargs
+Positional Parameters: none
+Keyword Parmaters: {'first': 'Akira', 'last': 'Royal'}
+Return: <function logger_decorator at 0x1025a40e0>
+Function: no_params
+Positional Parameters: none
+Keyword Parmaters: none
+Return: None
+Function: boolean
+Positional Parameters: ['isGood']
+Keyword Parmaters: none
+Return: True
+Function: kwordargs
+Positional Parameters: none
+Keyword Parmaters: {'first': 'Akira', 'last': 'Royal'}
+Return: <function logger_decorator at 0x1028c40e0>
